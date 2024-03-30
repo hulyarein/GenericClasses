@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Arithmetic/Arithmetic.iml" filepath="$PROJECT_DIR$/Arithmetic/Arithmetic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Generic Classes.iml" filepath="$PROJECT_DIR$/Generic Classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyMap/MyMap.iml" filepath="$PROJECT_DIR$/MyMap/MyMap.iml" />
+    </modules>
+  </component>
+</project>
